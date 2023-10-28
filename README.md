@@ -1,2 +1,2 @@
 # Password-Generator
-The password generator is a Java program that generates secure passwords of varying complexity levels.
+The password generator is a Java program that generates secure passwords of varying complexity levels. It allows users to specify the desired password length and security level (low, medium, or high) based on the importance of the accounts or websites they intend to use the passwords for. The generated passwords are random and adhere to the selected security level, making them suitable for a range of online applications.
